@@ -68,4 +68,4 @@ The application is made in a way to take the input from the terminal, paste the 
 
 ## Documentation
 
-For the documentation of the project, please check the pdf file **report.pdf**
+For the documentation of the project, please check the pdf file **Report.pdf**
